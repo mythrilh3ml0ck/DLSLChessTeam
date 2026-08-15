@@ -1,1 +1,1 @@
-{"attendance":{"2026-07-29":"LATE","2026-08-15":"PRESENT"},"attendanceDetails":{"2026-07-29":{"status":"LATE","timeIn":"14:24"},"2026-08-15":{"status":"PRESENT","timeOut":"13:16"}},"coachEvaluation":{},"id":"GSB002","peerEvaluation":{},"selfEvaluation":{}}
+{"attendance":{"2026-07-29":"LATE","2026-08-15":"PRESENT"},"attendanceDetails":{"2026-07-29":{"status":"LATE","timeIn":"14:24"},"2026-08-15":{"status":"PRESENT","timeIn":"13:16","timeOut":"13:16"}},"coachEvaluation":{},"id":"GSB002","peerEvaluation":{},"selfEvaluation":{}}
