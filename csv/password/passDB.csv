@@ -1,6 +1,6 @@
 UserID,Name,Sport,Password,PassReset
-Admin00001,Mythril H3mL0cK,Chess,0,0
-Coach00001,Guilbert C. Javier,Chess,19940313,19940313
+Admin1,Mythril H3mL0cK,Chess,0,0
+Coach01,Guilbert C. Javier,Chess,19940313,19940313
 GSB001,"Abad, Julian Dietrich P.",Chess,20170303,20170303
 GSB002,"Espina,Raphael G.",Chess,20151129,20151129
 GSB003,"Sanchez, Jv Guino Grael A.",Chess,20150717,20150717
@@ -12,7 +12,7 @@ HSB001,"Alarma, Richard Haiden D.",Chess,20101002,20101002
 HSB002,"Dimayuga, Vincent Ryu A.",Chess,20090221,20090221
 HSB003,"Lacorte, Rafiel Irvin Q.",Chess,20110519,20110519
 HSB004,"Tatel, Darius Adrian D.",Chess,20121102,20121102
-HSB005,"Yodico, Niño John Robert A.",Chess,20130120,20130120
+HSB005,"Yodico, NiÃ±o John Robert A.",Chess,20130120,20130120
 HSG001,"Burgos, Kiara Nadjeane D.",Chess,20140322,20140322
 HSG002,"Galleguez, Kena Areld M.",Chess,20120804,20120804
 HSG003,"Telmo, Jan Blaire N.",Chess,20120501,20120501
